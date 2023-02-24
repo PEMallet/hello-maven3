@@ -17,6 +17,7 @@ public class HelloWorld {
 		/**
 		 *Afficher A = new Afficher( );
 		 *A.display(message) ;
+		 *testitesto
 		*/
 
 	}
